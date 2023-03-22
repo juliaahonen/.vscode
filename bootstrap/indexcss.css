@@ -1,0 +1,42 @@
+.container-fluid {
+    background-color: #8FBC8F;
+    height: 100px;
+    position: fixed;
+    margin-top: 80px;
+    margin-left: 0px;
+}
+
+.nav-link {
+    background-color: #2E8B57;
+    color: black;
+    margin: 20px;
+    margin-right: 150px;
+    text-align: center;
+}
+
+#navigation-container {
+    float: left;
+    margin-right: 650px;
+}
+
+.img-fluid {
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+.row {
+    border: #8FBC8F;
+    margin-top: 20px;
+}
+
+.navbar {
+    text-align: right;
+}
+
+footer {
+    background-color: #8FBC8F;
+    margin-top: 200px;
+    text-align: center;
+}
+
+
