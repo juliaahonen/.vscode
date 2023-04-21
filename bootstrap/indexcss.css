@@ -3,7 +3,12 @@
     height: 100px;
     position: fixed;
     margin-top: 80px;
-    margin-left: 0px;
+    z-index: 100;
+}
+
+.logo {
+    float: left;
+    margin-left: 0%;
 }
 
 .nav-link {
@@ -12,11 +17,22 @@
     margin: 20px;
     margin-right: 150px;
     text-align: center;
+    font-weight: 900;
 }
 
 #navigation-container {
     float: left;
-    margin-right: 650px;
+    margin-right: 350px;
+}
+
+#header1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#header {
+    text-align: center;
+    margin-top: 150px;
 }
 
 .img-fluid {
@@ -27,16 +43,45 @@
 .row {
     border: #8FBC8F;
     margin-top: 20px;
+    text-align: center;
 }
 
-.navbar {
-    text-align: right;
+p {
+    text-align: center;
+}
+
+.table {
+    margin-top: 40px;
+    width: 800px;
+    margin-left: 300px;
+}
+
+form {
+    width: 800px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+#traileri {
+    margin-left: 300px;
+    border: 0px;
+}
+
+.mainos {
+    margin-left: 200px;
+    margin-top: 5px;
+}
+
+#maps {
+    float: right;
+    border: 0;
+    margin-top: 5px;
+    margin-right: 20px;
 }
 
 footer {
     background-color: #8FBC8F;
     margin-top: 200px;
     text-align: center;
+    font-style: italic;
 }
-
-
